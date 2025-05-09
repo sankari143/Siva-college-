@@ -46,12 +46,4 @@ button {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-
-    background-image: url(https://images.app.goo.gl/Lf71g);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    font-family: Arial, sans-serif;
-    color: #fff;
 }
